@@ -2,6 +2,6 @@
 최한희 멘토링조 입니다
 매주 수요일 8교시에 진행됩니다
 
-출석부
+출석부(출석/숙제완료:O 결석/숙제완료:X 출석/숙제미흡:* 결석/숙제미흡:?)
 https://github.com/alphalife3314/Mentoring_Shift/blob/master/Book1.xlsx?raw=true
 .
