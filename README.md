@@ -18,3 +18,6 @@ https://github.com/alphalife3314/Mentoring_Shift/blob/master/Book1.xlsx?raw=true
 |  | 5 | 이진희 |  | 1 |
 |  | 6 | 전효경 |  | 1 |
 |  | 7 | 정범석 |  | 1 |
+
+필독!!! 보정 구름 멘토링 규정
+https://github.com/Manicarus/BJCloud/wiki/%EB%A9%98%ED%86%A0%EB%A7%81-%EA%B7%9C%EC%B9%99
