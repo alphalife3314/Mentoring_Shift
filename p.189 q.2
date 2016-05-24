@@ -1,17 +1,21 @@
-#include <stdin.h>
+#include <stdio.h>
 
 int main()
 {
-    int num1, num2;
-    int result;
-    printf("두 개의 정수를 입력: ");
-    scanf("%d %d", &num1, &num2);
+	int num1, num2;
+	int result;
 	
-	  if(num1>num2)
-	  result=num1-num2;
-	  else
-  	result=num2-num1;
+	while(result>0)
+	{
+		printf("두 개의 정수를 입력: ");
+	    scanf("%d %d", &num1, &num2);
 	
-	  printf("뺄셈 결과: %d \n", result);
-	  return 0;
+	    if(num1>num2)
+	    result=num1-num2;
+	    else
+	    result=num2-num1;
+	
+	    printf("뺄셈 결과: %d \n", result);
+	}
+    return 0;
 }
